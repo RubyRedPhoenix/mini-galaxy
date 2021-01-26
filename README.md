@@ -1,3 +1,3 @@
 # mini-galaxy
 My personal blog + portfolio. :)
-Deployed at [https://mini-galaxy.netlify.app/](https://mini-galaxy.netlify.app/)
+Deployed at [https://rubyphoenix.netlify.app/](https://rubyphoenix.netlify.app/)
