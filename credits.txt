@@ -1,5 +1,0 @@
-I like keeping track of all the websites I visit while working on a site. So —
-
-FAVICON
-- https://stackoverflow.com/questions/4888377/how-to-add-a-browser-tab-icon-favicon-for-a-website
-- https://favicon.io/favicon-generator/
