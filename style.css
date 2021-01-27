@@ -1,3 +1,26 @@
+/* general styling */
+h3, h4, h5, h6 {
+	font-family: "Work Sans", sans-serif;
+}
+
 body {
+	margin: 0px 50px;
+	font-family: "Quicksand", sans-serif;
+}
+
+/* header styling */
+header {
 	text-align: center;
+}
+
+header h1 {
+	font-family: "Yeseva One", serif;
+	font-weight: 400;
+}
+
+header p {
+	font-family: "Covered By Your Grace", cursive;
+	font-size: 23px;
+	letter-spacing: 1.5px;
+	margin-top: -10px;
 }
